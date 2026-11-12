@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+lab2_inputs/
+**/PRIVATE_condition_key.json
+*.pyc
