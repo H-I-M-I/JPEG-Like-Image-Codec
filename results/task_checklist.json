@@ -1,0 +1,11 @@
+{
+  "S3_uniform_quantizer_and_all_bit_depths": "complete",
+  "S3_images_errors_histograms": "complete",
+  "S4_block_DCT_quantization_IDCT_matrices": "complete",
+  "S5_MSE_PSNR_entropy_bpp_RD_curves": "complete",
+  "S6_SSIM_and_metric_comparison": "complete",
+  "S6_subjective_materials": "complete; inspect artifact differences before assessment",
+  "S6_real_subjective_rankings": "PENDING \u2014 no human responses",
+  "S7_encoder_decoder_real_files_ratios_metrics": "complete; exact entropy round trips verified",
+  "S8_report": "not yet written; use actual results and observations"
+}

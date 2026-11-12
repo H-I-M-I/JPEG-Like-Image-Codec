@@ -1,0 +1,3 @@
+image,source,input_width,input_height,processed_width,processed_height,source_file_bytes,reference_png_bytes,raw_grayscale_bytes
+camera,skimage.data.camera,512,512,512,512,,142314,262144
+astronaut,"skimage.data.astronaut, converted to grayscale",512,512,512,512,,139052,262144
