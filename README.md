@@ -1,4 +1,3 @@
-
 # JPEG-Like Image Compression
 
 This lab investigates how quantization and transform coding affect image reconstruction quality and compressed data size.
